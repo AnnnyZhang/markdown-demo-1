@@ -28,3 +28,8 @@
 var b = 2;
 console.log(b)
 ```
+
+
+我的网站 [我的网站](https://github.com/AnnnyZhang/markdown-demo-1)
+
+![一张图片](3.jpg)
